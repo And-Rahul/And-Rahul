@@ -15,7 +15,7 @@
 ------
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors degree in NIT Trichy. </br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing Bachelors degree at NIT Trichy. </br>
 👨‍💻  I am passionate about Web Development and Web Designing </br>
 
 - 🧑‍💻 I have worked as a Web Designer intern at [AVIPL](https://avipl.in)
