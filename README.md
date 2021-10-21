@@ -7,7 +7,7 @@
 <a href="https://twitter.com/kunalstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="andhavarapurahul@gmail.com">
+<a href="mailto:andhavarapurahul@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
