@@ -137,5 +137,4 @@
   </a>
 </p>
 
-![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=And-Rahul&theme=react-dark)
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=And-Rahul&show_icons=true&hide_border=true)
