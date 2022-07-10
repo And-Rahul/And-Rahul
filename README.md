@@ -1,4 +1,4 @@
-### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [And-Rahul](https://and-rahul.github.io/AndRahul.github.io/)
+### Hi there! I'm [And-Rahul](https://and-rahul.github.io/AndRahul.github.io/)
 
 -----
 <a href="https://www.linkedin.com/in/andhavarapurahul-48b477193/" target="_blank">
