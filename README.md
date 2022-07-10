@@ -137,4 +137,5 @@
   </a>
 </p>
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=And-Rahul&show_icons=true&hide_border=true)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=and-rahul&theme=nord)<br>
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=and-rahul&layout=compact&theme=nord)
